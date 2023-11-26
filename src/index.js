@@ -1,3 +1,4 @@
+import './tokens.css';
 import './index.scss';
 import $ from "jquery";
 
